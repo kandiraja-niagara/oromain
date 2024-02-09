@@ -57,6 +57,8 @@ dependencies:
   search_page: ^2.3.0
   uuid: ^4.2.2
   chat_bubbles: ^1.5.0
+  sleek_circular_slider: ^2.0.1
+  excel: ^4.0.2
 
 dev_dependencies:
   flutter_test:
@@ -154,10 +156,10 @@ flutter:
      - assets/images/filter_sets.png
      - assets/images/water_source.png
      - assets/GiffFile/c2.gif
-     - assets\images\w04.png
-     - assets\images\w19.gif
-     - assets\images\w51.gif
-     - assets\images\w52.gif
+     - assets/images/w04.png
+     - assets/images/w19.gif
+     - assets/images/w51.gif
+     - assets/images/w52.gif
      - assets/images/db_valve.png
      - assets/images/dp_filter.png
      - assets/images/dp_prs_sensor.png
@@ -171,6 +173,7 @@ flutter:
      - assets/images/relief_valve.png
      - assets/images/channel.png
      - assets/images/company_logo.png
+     - assets/images/niagara_logo.png
      - assets/images/w08.png
      - assets/images/w09.png
      - assets/images/w10.png
@@ -186,8 +189,9 @@ flutter:
      - assets/images/bgcolor.png
      - assets/images/windy.png
      - assets/images/uv.png
-
-
+     - assets/images/hoursClock.png
+     - assets/images/24hoursClock.png
+     - assets/images/minsClock.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

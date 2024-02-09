@@ -1,0 +1,89 @@
+{
+   "checksum": "87eb3a8c716b891051f1623b67b7e9ba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13351233759809609",
+            "date_last_used": "0",
+            "guid": "2d51767f-c897-412b-8017-2266f32ec482",
+            "id": "11",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13351233759809438",
+            "date_last_used": "0",
+            "guid": "b364ef83-aa30-4cea-a34e-a8abda7b425a",
+            "id": "10",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=agoda&c=222&locale=*&pf=*&tp=edge&TYPE=3"
+         }, {
+            "date_added": "13351233759809280",
+            "date_last_used": "0",
+            "guid": "710016b9-c682-4d21-bb7f-7539b613d2e8",
+            "id": "9",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13351233759809079",
+            "date_last_used": "0",
+            "guid": "2ab7f7b6-1f51-4162-9fcd-e4e48679c7cb",
+            "id": "8",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13351233759807548",
+            "date_last_used": "0",
+            "guid": "bf12a82b-b1e4-4cc2-bbde-0eb93f7b121c",
+            "id": "7",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3"
+         } ],
+         "date_added": "13351233759547301",
+         "date_last_used": "0",
+         "date_modified": "13351413808977566",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13351233759547306",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13351233759547308",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
